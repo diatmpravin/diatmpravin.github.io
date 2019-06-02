@@ -26,9 +26,9 @@ googleplus_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/pravinmishra.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm working in the Cloud Enablement team as a Senior Cloud Architect and Google Cloud Technical Trainer. I'm an 
-  AWS Certied Solutions Architect - Professional, Certied Developer and Certied SysOps Administrator. I'm also 
-  Google Cloud Certified - Professional Cloud Architect and Azure certified (exam 70-533). I'm interested in 
+  I'm working in the Cloud Enablement team as a Senior Cloud Architect. I'm an AWS Certied Solutions Architect - Professional, 
+  Certied Developer and Certied SysOps Administrator. I'm also 
+  Google Cloud Certified trainer, Google Cloud Certified - Professional Cloud Architect and Azure certified (exam 70-533). I'm interested in 
   cloud native solutions and all aspects of the cloud from infrastructure to applications.
 
   I am continuously learning and updating myself with stamp of certifications on the latest pursuing technology
