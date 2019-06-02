@@ -26,39 +26,30 @@ googleplus_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/pravinmishra.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Pravin is an AWS Certified Solution Architect Professional, Developer, SysOps Admin, Azure Cloud, Google Cloud, rubyist, closet gopher, open source lover and contributor living in Helsinki, Finland. Now a days, I am involve in Massive Cloud Migration journey of 350 on-prem enterprise applications, where I am responsible for architecting & designing solutions for 16 applications that can be migrated to the AWS cloud. Working collaboratively with global team and different product development portfolio to provide appropriate solutions and engaging them to migrate the applications accordingly.
-Continuously learning and updating myself with stamp of certifications on the latest pursuing
-technology.
+  I'm working in the Cloud Enablement team as a Senior Cloud Architect and Google Cloud Technical Trainer. I'm an 
+  AWS Certied Solutions Architect - Professional, Certied Developer and Certied SysOps Administrator. I'm also 
+  Google Cloud Certified - Professional Cloud Architect and Azure certified (exam 70-533). I'm interested in 
+  cloud native solutions and all aspects of the cloud from infrastructure to applications.
 
-Currently engaged in 2 major enterprise transformative programs.
-<mark>Cloud Adoption & Migration:</mark>
-- Migration of Legacy and Greenfield Enterprise applications in a lift and shift, transformational, and
-re-platform manor using developed automated pipelines.
-- Design application specific architecture solutions for cloud migration.
-- Develop project plan for application migration including operational component.
-- Develop specific recommendations for cloud aware applications.
+  I am continuously learning and updating myself with stamp of certifications on the latest pursuing technology
 
-<mark>Cloud Training Program:</mark>
-- In-house AWS session
-- Coach for AWS Boot-camp initiative
+  <mark>Certifications:</mark>
+  - Exam 70-533: Implementing Microsoft Azure Infrastructure Solutions
+  - Google Cloud Certified - Professional Cloud Architect 
+  - AWS Certified Solutions Architect - Professional
+  - AWS Certified SysOps Administrator - Associate
+  - AWS Certified Solutions Architect - Associate
+  - AWS Certified Developer – Associate
 
-<mark>Certifications:</mark>
-Exam 70-533: Implementing Microsoft Azure Infrastructure Solutions
-Google Cloud Certified - Professional Cloud Architect 
-AWS Certified Solutions Architect - Professional
-AWS Certified SysOps Administrator - Associate
-AWS Certified Solutions Architect - Associate
-AWS Certified Developer – Associate
-
-<mark>Public Cloud Training: </mark>
-AWS Professional Services: Cloud Migration Best Practices
-AWS Solutions Training for Partners: Technical Foundations
-AWS Solutions Training for Partners: Big Data and Analytics 
-AWS Solutions Training for Partners: AWS for Windows
-AWS Classroom Training: Architecting on AWS
-AWS Solutions Training for Partners: SAP on AWS - Technical   
-GCP: Cloud OnBoard - Helsinki
-
+  <mark>Public Cloud Training:</mark> 
+  - AWS Professional Services: Cloud Migration Best Practices
+  - AWS Solutions Training for Partners: Technical Foundations
+  - AWS Solutions Training for Partners: Big Data and Analytics 
+  - AWS Solutions Training for Partners: AWS for Windows
+  - AWS Classroom Training: Architecting on AWS
+  - AWS Solutions Training for Partners: SAP on AWS - Technical   
+  - GCP: Cloud OnBoard - Helsinki
+  
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -71,9 +62,11 @@ GCP: Cloud OnBoard - Helsinki
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  
+  When I’m not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as running, trail biking, road cycling, as well as trying to make time for kitchen food.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  I’m interested in photography and videography as I like to be creative, this is mainly through sport but I enjoy landscape and abstract photography too. I like to showcase my work on my youtube channel, twitter and facebook.
+
 
 # Footer
 footer_show_references: true
