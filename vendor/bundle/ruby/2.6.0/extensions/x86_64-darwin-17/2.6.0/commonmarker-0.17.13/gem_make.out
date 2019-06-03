@@ -1,5 +1,5 @@
 current directory: /Users/pravinkumar/workspace/NordCloud-WorkSpace/diatmpravin.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190603-77285-1ry7pms.rb extconf.rb
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190603-8275-yjilgb.rb extconf.rb
 creating Makefile
 
 current directory: /Users/pravinkumar/workspace/NordCloud-WorkSpace/diatmpravin.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
@@ -118,4 +118,4 @@ linking shared-object commonmarker/commonmarker.bundle
 
 current directory: /Users/pravinkumar/workspace/NordCloud-WorkSpace/diatmpravin.github.io/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20190603-77285-p850f5/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20190603-8275-v4hfzz/commonmarker

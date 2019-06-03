@@ -25,7 +25,7 @@ dadf12a44f305baf586e3bde41515249f2a47eb3 refs/heads/json-payload-for-rendering-t
 ad61e41bdba4303e9e72840603660b26967a95bb refs/heads/log-cache-hit
 29d1f21df7c06ac58f575cd2731e327fb7d19ae2 refs/heads/make-it-an-error
 0e40c74e8aa1895b84bc57637cd9723238eba9f6 refs/heads/make-jekyll-parallel
-2f791484ab98c88c40b9ae0a378e2dd6b1931be8 refs/heads/master
+86fd200a688a4058955e3974e8ddf8221a8c77ce refs/heads/master
 177c1ca09e1be5f8a2924aed6c74bfa7d53079c5 refs/heads/max-cache
 7312a5af4f5e5a94fda9202b4d2a4ed707a83b87 refs/heads/no-dots-allowed
 67e34f7453df9d8234e2ddd09c81a52cb2d88bb5 refs/heads/no-liquid-cache
