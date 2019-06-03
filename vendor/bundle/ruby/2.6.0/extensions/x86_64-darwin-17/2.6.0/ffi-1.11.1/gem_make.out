@@ -1,5 +1,5 @@
 current directory: /Users/pravinkumar/workspace/NordCloud-WorkSpace/diatmpravin.github.io/vendor/bundle/ruby/2.6.0/gems/ffi-1.11.1/ext/ffi_c
-/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190602-58832-dr1cre.rb extconf.rb
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190603-77285-bpk637.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... yes
 checking for ffi_call() in -lffi... yes
@@ -127,4 +127,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190602-58832-1ls3spi
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190603-77285-fbdlu2
