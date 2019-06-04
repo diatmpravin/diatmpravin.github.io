@@ -7,7 +7,10 @@
   quote: >
    Multi-Cloud Solutions, Managed Services Provider
   description: | # this will include new lines to allow paragraphs
-    Working on customer project
+    Designing, automating, implementing and operating application environments in Microsoft Azure, AWS and Google Cloud. 
+    Consult on infrastructure best practice/governance
+    Assist in new onboarding practices
+
 
 - layout: left
   company: Nordcloud
@@ -17,7 +20,9 @@
   quote: >
    Multi-Cloud Solutions, Managed Services Provider
   description: | # this will include new lines to allow paragraphs
-    Working on customer project
+    Working as a Cloud Architect with Nordcloud's customers in a public cloud, using cloud-native methods
+    and DevOps to achieve maximum agility in their business. Consulting Nordcloud's customers on the cloud usage,
+    AWS best practice, AWS Security best practices, IaC and migration to the cloud
 
 
 - layout: left
