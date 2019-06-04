@@ -69,7 +69,7 @@
   description: | # this will include new lines to allow paragraphs
     Having discussions with different application teams and understanding their on-prem architecture and proposing optimal solutions for migrating into Cloud. Assisting in the migration effort. Automating the environment creation process completely end to end (from instance creation till the application is up and running with CI/CD process through Jenkins and Ansible). Creating Enablers for Compute/RDS/S3 Automation which will help the application teams in migrating the applications at quicker pace.
 
-    - Currently working on migration efforts (solution architecture/cost optimization) for enterprise
+    - Worked on migration efforts (solution architecture/cost optimization) for enterprise
     applications on to AWS Cloud across portfolio.
     - Expert-level knowledge of Amazon EC2, Amazon S3, Amazon RDS, Amazon Elastic Load Balancing,and
     other services of the AWS family
