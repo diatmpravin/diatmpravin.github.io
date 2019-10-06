@@ -33,8 +33,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am continuously learning and updating myself with stamp of certifications on the latest pursuing technology
 
-  <mark>Certifications:</mark>
+  <mark>Trainer Certifications:</mark>
   - Google Cloud Certified Trainer
+
+  <mark>Certifications:</mark>
   - Exam 70-533: Implementing Microsoft Azure Infrastructure Solutions
   - Google Cloud Certified - Professional Cloud Architect
   - AWS Certified Solutions Architect - Professional
