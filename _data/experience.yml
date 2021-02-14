@@ -7,7 +7,7 @@
   quote: >
    Multi-Cloud Solutions, Managed Services Provider
   description: | # this will include new lines to allow paragraphs
-    Designing, automating, implementing and operating application environments in Microsoft Azure, AWS and Google Cloud. 
+    Designing, automating, implementing and operating application environments in Microsoft Azure 6 AWS Cloud. 
     Consult on infrastructure best practice/governance
     Assist in new onboarding practices
 
@@ -15,6 +15,12 @@
      - AWS Multi Account Design & Implementation
      - End to End Encryption of existing AWS resources
      - Organize AWS Well-Architected Review for customers
+
+    In Azure responsible for design and implementation in the following areas:
+     - Infrastructure as Code (ARM Templates and Azure DevOps)
+     - Governance and Compliance (Azure Policy)
+     - Automation (PowerShell Functions, Automation DSC, Logic Apps)
+     - IaaS and PaaS based solutions
 
 
 - layout: left
