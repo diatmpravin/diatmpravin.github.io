@@ -18,9 +18,14 @@
 
     In Azure responsible for design and implementation in the following areas:
      - Infrastructure as Code (ARM Templates and Azure DevOps)
-     - Governance and Compliance (Azure Policy)
-     - Automation (PowerShell Functions, Automation DSC, Logic Apps)
      - IaaS and PaaS based solutions
+     - VM Deployment & Azure App Services
+     - SQL family service (SQL Database, Managed Instance, SQL Virtual Machine)
+     - Azure Kubernetes Service (AKS)
+     - Azure Log, Monitor and Workspace
+     - Network configuration
+ 
+
 
 
 - layout: left
